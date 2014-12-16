@@ -4,7 +4,7 @@
 // Arquivo com as novas funções
 //require_once "../../system/functions.php"; 
 
-require_once('../../system/linkController.php');
+require_once('../../system/blablabla.php');
 $_SESSION['id'] = $_GET['id'];
 
 require_once(''.$reqPuxaController.'');
